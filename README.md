@@ -19,4 +19,21 @@ factor of the product as the base model of the Envision Glasses costs around two
 3. a detection system that is equipped to overcome unpredictable obstacles and situations
 
 **Data**
-[BI_CS Project Data - Sheet1.pdf](https://github.com/user-attachments/files/17100526/BI_CS.Project.Data.-.Sheet1.pdf)
+- **Eyesight**
+<img width="542" alt="Screenshot 2024-09-23 at 9 03 00 AM" src="https://github.com/user-attachments/assets/fd6fd072-5fbe-45ca-840f-ac654f020d9e">
+<img width="509" alt="Screenshot 2024-09-23 at 9 03 26 AM" src="https://github.com/user-attachments/assets/a8a751d2-3860-4e9f-8aac-284a797b930a">
+
+- **Lidar Tests**
+<img width="543" alt="Screenshot 2024-09-23 at 9 03 37 AM" src="https://github.com/user-attachments/assets/3a04dba3-44e4-4341-9dd7-d9676f73ae82">
+
+**Citations**
+(AccuWeather), A. C. M. (2021, January 8). How can self-driving cars 'see' in the rain, Snow and fog? abc10.com. Retrieved April 13, 2023, from https://www.abc10.com/article/weather/accuweather/self-driving-cars-radar-inclement-weather-rain-fog-s now/507-0438604e-ef32-4c0a-9634-99a6ec71fa12
+Benjamin, J. M. (1973). Preliminary evaluation of the bionic instruments. THE LASER CANE, 443–450. https://doi.org/10.17226/20513
+Centers for Disease Control and Prevention. (2021, August 10). Basics of vision and Eye Health. Centers for Disease Control and Prevention. Retrieved April 13, 2023, from https://www.cdc.gov/visionhealth/basics/index.html
+Challenges blind people face when Living Life. Envision. (n.d.). Retrieved April 13, 2023, from https://www.letsenvision.com/blog/challenges-blind-people-face-when-living-life
+Maidenbaum S;Hanassy S;Abboud S;Buchs G;Chebat DR;Levy-Tzedek S;Amedi A; (n.d.). The "eyecane", a new electronic travel aid for the Blind: Technology, Behavior & Swift Learning. Restorative neurology and neuroscience. Retrieved April 13, 2023, from https://pubmed.ncbi.nlm.nih.gov/25201814/
+Maidenbaum, S., Hanassy, S., Abboud, S., Buchs, G., Chebat, D.-R., Levy-Tzedek, S., & Amedi, A. (2014, January 1). The "eyecane", a new electronic travel aid for the Blind: Technology, Behavior & Swift Learning. Restorative Neurology and Neuroscience. Retrieved April 12, 2023, from https://content.iospress.com/articles/restorative-neurology-and-neuroscience/rnn130351
+Wilkerson, M. (2021, October 15). White Canes: A history. Independence Now. Retrieved April 13, 2023, from https://www.innow.org/2021/10/15/white-canes-a-history/
+12
+Wilkerson, M. (2021, October 15). White Canes: A history. Independence Now. Retrieved April 13, 2023, from https://www.innow.org/2021/10/15/white-canes-a-history/
+Yin, S. (2019, June 14). Why is creating electronic canes for the blind so hard? WHYY. Retrieved April 13, 2023, from https://whyy.org/segments/why-is-creating-electronic-canes-for-the-blind-so-hard/
