@@ -5,18 +5,16 @@ Take for example the “EyeCane”, a novel take on the original white cane, the
  created by a person who is visually impaired, WeWalk, continues the pattern of featuring comprehensive technology to the white cane that many visually impaired people find more effective on its own.
 Simply, overcomplicating the cane, it interrupts and convolutes the intentionally simple design of the white cane. The original is easy to use with its lightweight materials and easy to carry with many canes being able to fold into a compact structure intended to be functional for the users. So now the question is, why reinvent the wheel? With so many versions of an already successful design, some even awarded medals for their efforts, they’ve made a solution to a disability more difficult to access with the common recurring issue of cost and method of detection. All of the previously mentioned designs require either an outer source of detection, such as GPS, or light and sound detections that could be interfered with by external unpredictable factors which render many of their systems useless. As a result, this causes a danger to many visually impaired consumers and deters many others from reaching out to experiment with their “revolutionary” and “cutting-edge” technology.
 As for the requirements for the development of the white walking cane:
-1. a device must be able to detect objects
-2. be silent and inconspicuous when in use
-3. simple to use and must not require a routine to set the device
-4. should have a wide range of detection
-5. be tactile for the user
-6. should not interfere with other senses if it is auditory
-In spite of this, there have been successful devices catered to the blind that do not act as an expensive and unnecessary add-on to the original white cane. Take for instance Envision, a company revolving around eyewear that assists the blind in reading. Shaped similarly to a failed predecessor—the Google Glass—Envision glasses employ a camera and AI software to read typed words and write to a visually impaired person. The design itself differs from the rest of the designs as it fails to obstruct the design of the white cane, instead, it acts as an additional support device for the blind; the glasses themselves continue to allow for the visually impaired to assume independence, a goal for many visually impaired. Then again, the cost continues to be a deterring
-
-factor of the product as the base model of the Envision Glasses costs around two thousand five hundred dollars. So in conclusion, to truly create a modern revolutionary innovation for the blind, these criteria have to be met:
-1. a device that does not interfere with a majority of previously trained accessories
-2. a budget-friendly product that is intended to be accessible for all who could afford a cane
-3. a detection system that is equipped to overcome unpredictable obstacles and situations
+ 1. a device must be able to detect objects
+ 2. be silent and inconspicuous when in use
+ 3. simple to use and must not require a routine to set the device
+ 4. should have a wide range of detection
+ 5. be tactile for the user
+ 6. should not interfere with other senses if it is auditory
+In spite of this, there have been successful devices catered to the blind that do not act as an expensive and unnecessary add-on to the original white cane. Take for instance Envision, a company revolving around eyewear that assists the blind in reading. Shaped similarly to a failed predecessor—the Google Glass—Envision glasses employ a camera and AI software to read typed words and write to a visually impaired person. The design itself differs from the rest of the designs as it fails to obstruct the design of the white cane, instead, it acts as an additional support device for the blind; the glasses themselves continue to allow for the visually impaired to assume independence, a goal for many visually impaired. Then again, the cost continues to be a deterringfactor of the product as the base model of the Envision Glasses costs around two thousand five hundred dollars. So in conclusion, to truly create a modern revolutionary innovation for the blind, these criteria have to be met:
+ 1. a device that does not interfere with a majority of previously trained accessories
+ 2. a budget-friendly product that is intended to be accessible for all who could afford a cane
+ 3. a detection system that is equipped to overcome unpredictable obstacles and situations
 
 **Data**
 - **Eyesight**
