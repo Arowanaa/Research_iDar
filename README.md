@@ -24,6 +24,9 @@ In spite of this, there have been successful devices catered to the blind that d
 - **Lidar Tests**
 <img width="543" alt="Screenshot 2024-09-23 at 9 03 37 AM" src="https://github.com/user-attachments/assets/3a04dba3-44e4-4341-9dd7-d9676f73ae82">
 
+
+
+
 **Citations**
 (AccuWeather), A. C. M. (2021, January 8). How can self-driving cars 'see' in the rain, Snow and fog? abc10.com. Retrieved April 13, 2023, from https://www.abc10.com/article/weather/accuweather/self-driving-cars-radar-inclement-weather-rain-fog-s now/507-0438604e-ef32-4c0a-9634-99a6ec71fa12
 Benjamin, J. M. (1973). Preliminary evaluation of the bionic instruments. THE LASER CANE, 443–450. https://doi.org/10.17226/20513
